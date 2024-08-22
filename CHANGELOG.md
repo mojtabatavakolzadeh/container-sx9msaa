@@ -1,3 +1,15 @@
+# v0.0.3 (Thu Aug 22 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@mojtabatavakolzadeh](https://github.com/mojtabatavakolzadeh))
+
+#### Authors: 1
+
+- mojtaba ([@mojtabatavakolzadeh](https://github.com/mojtabatavakolzadeh))
+
+---
+
 # v0.0.2 (Thu Aug 22 2024)
 
 #### ⚠️ Pushed to `main`
