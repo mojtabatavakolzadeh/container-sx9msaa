@@ -1,3 +1,15 @@
+# v0.0.4 (Thu Aug 22 2024)
+
+#### 🐛 Bug Fix
+
+- Update docker-compose.yml [#2](https://github.com/mojtabatavakolzadeh/container-sx9msaa/pull/2) ([@mojtabatavakolzadeh](https://github.com/mojtabatavakolzadeh))
+
+#### Authors: 1
+
+- mojtaba ([@mojtabatavakolzadeh](https://github.com/mojtabatavakolzadeh))
+
+---
+
 # v0.0.3 (Thu Aug 22 2024)
 
 #### ⚠️ Pushed to `main`
