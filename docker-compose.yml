@@ -24,6 +24,8 @@ services:
       SECRET_KEY: local_development
       
 
+      
+
 
   db:
     # This database service is used only for local development
